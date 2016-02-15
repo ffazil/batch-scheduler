@@ -1,0 +1,7 @@
+
+flightStats:
+  api:
+    baseUrl: https://api.flightstats.com
+    activeAirportsUri: /flex/airports/rest/v1/json/active
+    appId: 0639f45a
+    appKey: 35ca655d303ac69d276508a3fa81b52f
